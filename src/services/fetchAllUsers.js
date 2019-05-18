@@ -6,8 +6,7 @@ const fetchAllUsers = () => {
         method: "GET",
         headers: {
             "content-type": "application/json",
-            "x-api-key": "B1tD3V",
-            "X-From": "Netlify"
+            "x-api-key": "B1tD3V"
         }
     })
         .then(res => res.json())

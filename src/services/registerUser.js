@@ -13,7 +13,6 @@ const registerUser = body => {
       headers: {
         "Content-Type": "application/json",
         "x-api-key": "B1tD3V",
-        "X-From": "Netlify"
       },
       body: JSON.stringify(registerUser)
     })
