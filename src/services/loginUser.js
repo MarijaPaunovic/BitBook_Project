@@ -6,7 +6,8 @@ const loginUser = userToken => {
     headers: {
       "Content-Type": "application/json",
       "x-api-key": "B1tD3V",
-      "Authorization": `Bearer ${userToken}`
+      "Authorization": `Bearer ${userToken}`,
+      "X-From": "Netlify"
     }
   })
     .then(res => res.json())
