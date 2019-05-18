@@ -8,7 +8,8 @@ const fetchUser = (id) => {
     method: "GET",
     headers: {
       "content-type": "application/json",
-      "x-api-key": "B1tD3V"
+      "x-api-key": "B1tD3V",
+      "X-From": "Netlify"
     }
   })
     .then(res => res.json())
