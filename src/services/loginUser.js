@@ -5,7 +5,7 @@ const loginUser = userToken => {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
-      "x-api-key": "B1tD3V",
+      "x-api-key": "B1tPr0d",
       "Authorization": `Bearer ${userToken}`
     }
   })

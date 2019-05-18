@@ -6,7 +6,7 @@ const fetchAllUsers = () => {
         method: "GET",
         headers: {
             "content-type": "application/json",
-            "x-api-key": "B1tD3V"
+            "x-api-key": "B1tPr0d"
         }
     })
         .then(res => res.json())

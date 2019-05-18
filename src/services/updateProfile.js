@@ -5,7 +5,7 @@ const updateProfile = (id, body) => {
     method: "PATCH",
     headers: {
       "Content-Type": "application/json",
-      "x-api-key": "B1tD3V"
+      "x-api-key": "B1tPr0d"
     },
     body: JSON.stringify(body)
   })
