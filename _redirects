@@ -2,6 +2,6 @@
 
 
 [[redirects]]
-from = "https://marija-paunovic-bitbook.netlify.com/"
-to = "http://marija-paunovic-bitbook.netlify.com/"
+from = "https://*"
+to = "http://*"
 status = 200
