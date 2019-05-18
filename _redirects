@@ -2,6 +2,6 @@
 
 
 [[redirects]]
-from = "https://marija-paunovic-bitbook.netlify.com/*"
-to = "http://marija-paunovic-bitbook.netlify.com/*"
+from = "https://marija-paunovic-bitbook.netlify.com"
+to = "http://book-api-dev.hypetech.xyz/posts?_embed=comments"
 status = 200
