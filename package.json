@@ -2,7 +2,7 @@
   "name": "bit-book",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://marija-paunovic-bitpeople.netlify.com/",
+  "homepage": "https://marija-paunovic-bitbook.netlify.com/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "jwt-decode": "^2.2.0",
