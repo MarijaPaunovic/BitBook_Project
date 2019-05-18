@@ -1,6 +1,2 @@
-[[redirects]]
-  from = "https://book-api-dev.hypetech.xyz"
-  to = "http://book-api-dev.hypetech.xyz"
-  status = 200
-  force = true 
-  headers = {X-From = "Netlify"} 
+/*    /index.html   200
+/api/*  http://book-api-dev.hypetech.xyz/:splat  200
