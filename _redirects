@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "http://book-api-dev.hypetech.xyz"
+  from = "https://book-api-dev.hypetech.xyz"
   to = "http://book-api-dev.hypetech.xyz"
   status = 200
   force = true 
