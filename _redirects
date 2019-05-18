@@ -1,0 +1,5 @@
+/home         /              301
+
+/my-redirect  /              302
+
+/pass-through /index.html    200
