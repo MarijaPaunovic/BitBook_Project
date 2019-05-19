@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/BitBook_Project/precache-manifest.0250c1dfc4d6634449b7ef680465604a.js"
+  "/BitBook_Project/precache-manifest.dffe87591da6e18ac0525f1c655ac265.js"
 );
 
 workbox.clientsClaim();

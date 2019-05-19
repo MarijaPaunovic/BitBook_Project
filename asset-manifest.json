@@ -1,13 +1,13 @@
 {
   "main.css": "/BitBook_Project/static/css/main.2fecc744.chunk.css",
-  "main.js": "/BitBook_Project/static/js/main.4ee39147.chunk.js",
-  "main.js.map": "/BitBook_Project/static/js/main.4ee39147.chunk.js.map",
+  "main.js": "/BitBook_Project/static/js/main.31b94b65.chunk.js",
+  "main.js.map": "/BitBook_Project/static/js/main.31b94b65.chunk.js.map",
   "runtime~main.js": "/BitBook_Project/static/js/runtime~main.dffbac11.js",
   "runtime~main.js.map": "/BitBook_Project/static/js/runtime~main.dffbac11.js.map",
   "static/js/2.4c5674ed.chunk.js": "/BitBook_Project/static/js/2.4c5674ed.chunk.js",
   "static/js/2.4c5674ed.chunk.js.map": "/BitBook_Project/static/js/2.4c5674ed.chunk.js.map",
   "index.html": "/BitBook_Project/index.html",
-  "precache-manifest.0250c1dfc4d6634449b7ef680465604a.js": "/BitBook_Project/precache-manifest.0250c1dfc4d6634449b7ef680465604a.js",
+  "precache-manifest.dffe87591da6e18ac0525f1c655ac265.js": "/BitBook_Project/precache-manifest.dffe87591da6e18ac0525f1c655ac265.js",
   "service-worker.js": "/BitBook_Project/service-worker.js",
   "static/css/main.2fecc744.chunk.css.map": "/BitBook_Project/static/css/main.2fecc744.chunk.css.map"
 }
