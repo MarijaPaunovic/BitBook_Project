@@ -2,9 +2,10 @@
   "name": "bit-book",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://marija-paunovic-bitbook.netlify.com/",
+  "homepage": "https://marijapaunovic.github.io/BitBook_Project/",
   "dependencies": {
     "bootstrap": "^4.3.1",
+    "gh-pages": "^2.0.1",
     "jwt-decode": "^2.2.0",
     "materialize-css": "^1.0.0",
     "react": "^16.8.6",
@@ -16,9 +17,10 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "npm run build&&gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "deploy": "npm run build&&gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
