@@ -2,7 +2,7 @@
   "name": "bit-book",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://marijapaunovic.github.io/BitBook_Project/",
+  "homepage": "https://marija-paunovic-bitbook.netlify.com",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.0.1",
